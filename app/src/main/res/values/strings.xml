@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="no_internet_connection">No internet</string>
+    <string name="tap_to_retry">Tap to retry</string>
+    <string name="network_error">Network error</string>
+    <string name="invalid_credentials">Invalid credentials</string>
+    <string name="general_error">Something went wrong</string>
+</resources>
